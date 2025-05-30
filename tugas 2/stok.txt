@@ -1,0 +1,2 @@
+resistor|RS12|12000|20
+LED merah|LM100|2000|1200
